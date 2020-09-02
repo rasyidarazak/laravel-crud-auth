@@ -1,0 +1,17 @@
+.title-app, .title-app:hover{
+	color: white;
+}
+
+.btn-xs{
+	font-size: 0.8em;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+@media screen and (max-width: 767px){
+	th,td {
+	  white-space: nowrap;
+	}
+}
